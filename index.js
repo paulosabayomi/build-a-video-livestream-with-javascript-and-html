@@ -69,3 +69,4 @@ endBtn.addEventListener('click', function (e) {
     videoElem.pause();
     recorder.stop();
 })
+
